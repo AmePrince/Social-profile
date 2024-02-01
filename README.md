@@ -27,8 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://social-link001.netlify.app/)
 
 ### Built with
 
@@ -42,3 +41,4 @@ Users should be able to:
 - Twitter - [@yourusername](https://www.twitter.com/ameprince)
 
 ## Acknowledgments
+A big Thank you to My Mentor and Boss https://github.com/Bibiwei-Pere
